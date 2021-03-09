@@ -1,4 +1,4 @@
-name: RT Pathfinding
+name: Real-Time Pathfinding
 
 on:
   push:
