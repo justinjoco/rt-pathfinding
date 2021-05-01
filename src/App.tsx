@@ -1,5 +1,5 @@
 import Node from './components/Node'
-import './App.css';
+import './App.css'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <Node/>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
