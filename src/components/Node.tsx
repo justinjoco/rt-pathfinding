@@ -1,7 +1,11 @@
 import { Component } from 'react'
 import './Node.css'
 
-type Props = {}
+type Props = {
+  row: number;
+  col: number;
+}
+
 type Style = {}
 
 class Node extends Component<Props, Style> {

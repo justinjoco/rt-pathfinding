@@ -1,11 +1,11 @@
-import Node from './components/Node'
+import Visualizer from './components/Visualizer'
 import './App.css'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Node/>
+        <Visualizer/>
       </header>
     </div>
   )
